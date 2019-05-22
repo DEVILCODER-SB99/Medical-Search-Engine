@@ -1,0 +1,9 @@
+# Medical-Search-Engine
+In This We Have Two Search Bar's. Either U search Disease Name Or Medicine Name....
+
+1. if u search Disease Name then It will give Symptoms of that disease and description about them...
+then it also shows which medicines should be taken for the treatment of this disease
+then it also shows location button then enter ur location then it will give u near by medicine store where u can purchase these medicines..
+
+2. if u search any medicine name ...then it will give u stores from where u can purchase this medicine....
+
